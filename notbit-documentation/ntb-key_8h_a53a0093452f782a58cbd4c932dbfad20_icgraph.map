@@ -1,0 +1,7 @@
+<map id="ntb_key_ref" name="ntb_key_ref">
+<area shape="rect" id="node2" href="$ntb-crypto_8h.html#a2105ace9115ee22976b594a528990c0f" title="ntb_crypto_create_pubkey_blob" alt="" coords="144,5,351,32"/>
+<area shape="rect" id="node3" href="$ntb-crypto_8h.html#a0fcae7a7811e69514e94cb7791b4a614" title="ntb_crypto_create_msg_blob" alt="" coords="153,56,342,83"/>
+<area shape="rect" id="node4" href="$ntb-crypto_8h.html#a2a183d906c94cd1fef5fe998fd17a37f" title="ntb_crypto_decrypt_msg" alt="" coords="165,107,330,133"/>
+<area shape="rect" id="node5" href="$ntb-store_8h.html#ac0ec5c4de4110e75c4e271eb06a700fe" title="ntb_store_save_message" alt="" coords="162,157,333,184"/>
+<area shape="rect" id="node6" href="$ntb-store_8h.html#aaf023f6fbf4bbb4e329103ed8d29dc1c" title="ntb_store_save_keys" alt="" coords="174,208,321,235"/>
+</map>

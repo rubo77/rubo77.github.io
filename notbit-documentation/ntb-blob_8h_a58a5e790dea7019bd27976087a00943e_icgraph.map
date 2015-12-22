@@ -1,0 +1,11 @@
+<map id="ntb_blob_ref" name="ntb_blob_ref">
+<area shape="rect" id="node2" href="$ntb-connection_8h.html#a93b243f8d417d06705175bb50376020a" title="ntb_connection_send_blob" alt="" coords="153,5,329,32"/>
+<area shape="rect" id="node3" href="$ntb-crypto_8h.html#a0fcae7a7811e69514e94cb7791b4a614" title="ntb_crypto_create_msg_blob" alt="" coords="147,56,336,83"/>
+<area shape="rect" id="node4" href="$ntb-crypto_8h.html#acee4328bfbfa39e401d2dd2170d3e34d" title="ntb_crypto_check_pubkey" alt="" coords="154,107,329,133"/>
+<area shape="rect" id="node5" href="$ntb-crypto_8h.html#a2a183d906c94cd1fef5fe998fd17a37f" title="ntb_crypto_decrypt_msg" alt="" coords="159,157,324,184"/>
+<area shape="rect" id="node6" href="$ntb-store_8h.html#a84340ef750729baf597d87b426abea62" title="ntb_store_save_blob" alt="" coords="170,208,313,235"/>
+<area shape="rect" id="node7" href="$ntb-store_8h.html#ac0ec5c4de4110e75c4e271eb06a700fe" title="ntb_store_save_message" alt="" coords="156,259,327,285"/>
+<area shape="rect" id="node8" href="$ntb-store_8h.html#a05156b345d43ed32e691042eece09ca4" title="ntb_store_save_message\l_content" alt="" coords="156,310,327,351"/>
+<area shape="rect" id="node10" href="$ntb-store_8h.html#aa07646f029c6bb870441fb46c1bbde58" title="ntb_store_save_outgoings" alt="" coords="154,376,329,403"/>
+<area shape="rect" id="node9" href="$ntb-keyring_8h.html#ac4c6339435fc9836306949df564067b9" title="ntb_keyring_send_message" alt="" coords="384,317,568,344"/>
+</map>

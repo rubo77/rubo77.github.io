@@ -1,0 +1,8 @@
+<map id="ntb_store" name="ntb_store">
+<area shape="rect" id="node2" href="$structntb__list.html" title="NtbList &#45; linked list. " alt="" coords="5,185,69,212"/>
+<area shape="rect" id="node3" href="$structntb__buffer.html" title="ntb_buffer" alt="" coords="147,185,227,212"/>
+<area shape="rect" id="node4" href="$structntb__slice__allocator.html" title="ntb_slice_allocator" alt="" coords="251,185,381,212"/>
+<area shape="rect" id="node5" href="$structntb__slice.html" title="ntb_slice" alt="" coords="179,95,253,121"/>
+<area shape="rect" id="node6" href="$structntb__slab__allocator.html" title="ntb_slab_allocator" alt="" coords="331,95,458,121"/>
+<area shape="rect" id="node7" href="$structntb__slab.html" title="ntb_slab" alt="" coords="359,5,430,32"/>
+</map>

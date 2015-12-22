@@ -1,0 +1,17 @@
+<map id="ntb_slice_free" name="ntb_slice_free">
+<area shape="rect" id="node2" href="$ntb-connection_8h.html#a5678825b84a6eb670e519df2161223c4" title="ntb_connection_free" alt="" coords="601,360,739,387"/>
+<area shape="rect" id="node3" href="$ntb-hash-table_8h.html#a9881cfc99769c83de5f8adc6820d0efa" title="ntb_hash_table_remove" alt="" coords="163,149,323,176"/>
+<area shape="rect" id="node4" href="$ntb-hash-table_8h.html#a2c23b559bf8c336b08ae8f07a0a5c26a" title="ntb_hash_table_free" alt="" coords="174,52,313,79"/>
+<area shape="rect" id="node6" href="$ntb-main-context_8h.html#ad93774d68ede1309ff321516f2cfaf25" title="ntb_main_context_remove\l_source" alt="" coords="156,201,331,242"/>
+<area shape="rect" id="node15" href="$ntb-store_8h.html#a44e7a9d11b485a3a2b4a955a8c3a8a3c" title="cancel task " alt="" coords="382,309,535,336"/>
+<area shape="rect" id="node16" href="$ntb-proxy_8h.html#aa01756b0cb456e0ed2b185e81baf8d9f" title="ntb_proxy_free" alt="" coords="189,349,297,376"/>
+<area shape="rect" id="node5" href="$ntb-network_8h.html#a24c81bb4f95ca90429eb8e41cd3b19bc" title="ntb_network_free" alt="" coords="397,5,520,32"/>
+<area shape="rect" id="node7" href="$ntb-crypto_8h.html#a030e2642d9b44a6908adbb026a3bb6ce" title="ntb_crypto_cancel_task" alt="" coords="379,208,539,235"/>
+<area shape="rect" id="node9" href="$ntb-ipc_8h.html#aa1d647eea551c1238ddba3cde259ffa4" title="ntb_ipc_free" alt="" coords="412,107,505,133"/>
+<area shape="rect" id="node10" href="$ntb-keyring_8h.html#ad3e6f69975e0cf5243504735e65872a8" title="ntb_keyring_free" alt="" coords="399,157,518,184"/>
+<area shape="rect" id="node11" href="$ntb-main-context_8h.html#af52b365b6c7aefc76de5602846f4be34" title="ntb_main_context_free" alt="" coords="381,56,536,83"/>
+<area shape="rect" id="node14" href="$ntb-pow_8h.html#a352d85e48f3137e7dc5d465e2745aca2" title="ntb_pow_cancel" alt="" coords="401,259,517,285"/>
+<area shape="rect" id="node8" href="$ntb-keyring_8h.html#a0cc1ecf6e5d52e3e330ced1068bc35b0" title="ntb_keyring_cancel_task" alt="" coords="587,208,753,235"/>
+<area shape="rect" id="node12" href="$ntb-daemon_8h.html#af2b9ebb3173ca22e3b3aae73d2902797" title="Main function that runs the notbit deamon. " alt="" coords="623,56,717,83"/>
+<area shape="rect" id="node13" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="801,56,852,83"/>
+</map>

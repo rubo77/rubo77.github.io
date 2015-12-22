@@ -1,0 +1,6 @@
+<map id="ntb_proto_add_var_str" name="ntb_proto_add_var_str">
+<area shape="rect" id="node2" href="$ntb-proto_8h.html#aaf22cdf26fee9b2967c8ee2d6335bd32" title="ntb_proto_add_command\l_va_list" alt="" coords="204,39,372,80"/>
+<area shape="rect" id="node3" href="$ntb-proto_8h.html#aaee5b9a12e0aacff52b9e10e007d142e" title="ntb_proto_add_command" alt="" coords="420,46,588,73"/>
+<area shape="rect" id="node4" href="$ntb-connection_8h.html#a29f1af410e5773406a35748384dfdfae" title="ntb_connection_send\l_verack" alt="" coords="636,5,781,47"/>
+<area shape="rect" id="node5" href="$ntb-connection_8h.html#aa21d424a31cc4bb611a70711aed27919" title="ntb_connection_send\l_version" alt="" coords="636,71,781,112"/>
+</map>

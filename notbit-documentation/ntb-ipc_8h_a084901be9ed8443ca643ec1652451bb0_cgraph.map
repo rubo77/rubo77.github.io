@@ -1,0 +1,27 @@
+<map id="ntb_ipc_new" name="ntb_ipc_new">
+<area shape="rect" id="node2" href="$ntb-ipc-sockaddr_8c.html#a121cf1fa9e2c1fa75a37e22426f820e5" title="ntb_ipc_sockaddr_create" alt="" coords="155,81,321,108"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="1172,208,1247,235"/>
+<area shape="rect" id="node11" href="$ntb-util_8c.html#ac24afa624b7adaab5e4a225b5cb4f053" title="ntb_strconcat" alt="" coords="619,528,721,555"/>
+<area shape="rect" id="node14" href="$ntb-main-context_8c.html#a350bced573b358e0b69f76b9f52e4f3a" title="ntb_main_context_add_poll" alt="" coords="148,356,328,383"/>
+<area shape="rect" id="node19" href="$ntb-list_8c.html#ad9f41def0330a152edb31bcc32cd9cd6" title="ntb_list_init" alt="" coords="831,477,919,504"/>
+<area shape="rect" id="node25" href="$ntb-util_8c.html#ad2c1e6a6f55f3d9c0ec94f622320e2e1" title="ntb_close" alt="" coords="199,575,277,601"/>
+<area shape="rect" id="node26" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="203,625,273,652"/>
+<area shape="rect" id="node3" href="$ntb-buffer_8c.html#a0dbea5068c0fdf3b6f650a6585818748" title="ntb_buffer_init" alt="" coords="823,107,927,133"/>
+<area shape="rect" id="node4" href="$ntb-buffer_8c.html#a4c9eba33059fae349cfc5a5a46a14b4b" title="ntb_buffer_set_length" alt="" coords="597,5,743,32"/>
+<area shape="rect" id="node9" href="$ntb-buffer_8c.html#ab6da2c7534c396507a7a00446c6d0175" title="ntb_buffer_append_string" alt="" coords="376,56,544,83"/>
+<area shape="rect" id="node5" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="796,56,953,83"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="1020,107,1105,133"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="1295,171,1367,197"/>
+<area shape="rect" id="node10" href="$ntb-buffer_8c.html#a23b77cb9d3f7f2be4dcd39cc5d87837e" title="ntb_buffer_append" alt="" coords="605,56,735,83"/>
+<area shape="rect" id="node12" href="$ntb-util_8c.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="833,528,916,555"/>
+<area shape="rect" id="node13" href="$ntb-util_8c.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="1014,444,1111,471"/>
+<area shape="rect" id="node15" href="$ntb-main-context_8c.html#a6236d2c875e0cc196d124f7c6ea2b1e9" title="ntb_main_context_get\l_default" alt="" coords="385,407,535,449"/>
+<area shape="rect" id="node22" href="$ntb-slice_8c.html#ab346bbcb27af7b53f39005d886234f66" title="ntb_slice_alloc" alt="" coords="406,229,514,256"/>
+<area shape="rect" id="node24" href="$ntb-list_8c.html#ae87220b56ded1440a7de6563a92e563d" title="ntb_list_insert" alt="" coords="409,305,511,332"/>
+<area shape="rect" id="node16" href="$ntb-main-context_8c.html#a119033861fa6e8a0d25d48cdd9a25827" title="ntb_main_context_new" alt="" coords="592,359,748,385"/>
+<area shape="rect" id="node17" href="$ntb-slice_8c.html#a9e6dae4e26cc71231baf84cf40663b28" title="ntb_slice_allocator_init" alt="" coords="797,309,952,336"/>
+<area shape="rect" id="node20" href="$ntb-main-context_8c.html#ad3ecc025d6dc07b40aab88ae80a35b23" title="ntb_main_context_get\l_monotonic_clock" alt="" coords="799,411,950,453"/>
+<area shape="rect" id="node21" href="$ntb-util_8c.html#ad676939eb3f4707103cb7b615c7ecc42" title="ntb_warning" alt="" coords="829,360,921,387"/>
+<area shape="rect" id="node18" href="$ntb-slab_8c.html#a248d37d4788ec99ba2a75ad50eee628f" title="ntb_slab_init" alt="" coords="1015,309,1110,336"/>
+<area shape="rect" id="node23" href="$ntb-slab_8c.html#a0f7de8c62dd7aaca2b713bb2c3afb455" title="ntb_slab_allocate" alt="" coords="1001,208,1124,235"/>
+</map>

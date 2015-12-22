@@ -1,0 +1,10 @@
+<map id="ntb_memdup" name="ntb_memdup">
+<area shape="rect" id="node2" href="$ntb-crypto_8h.html#a2a183d906c94cd1fef5fe998fd17a37f" title="ntb_crypto_decrypt_msg" alt="" coords="151,5,316,32"/>
+<area shape="rect" id="node3" href="$ntb-key_8h.html#a74c03d58ff76f94b0e4f076d39003261" title="ntb_key_copy" alt="" coords="390,56,493,83"/>
+<area shape="rect" id="node4" href="$ntb-util_8h.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="192,107,275,133"/>
+<area shape="rect" id="node5" href="$ntb-crypto_8h.html#a70d8923317abaddc5de09f9fd4eba16d" title="ntb_crypto_create_key" alt="" coords="364,107,519,133"/>
+<area shape="rect" id="node7" href="$ntb-key_8h.html#a50ff28864104af34695e12f76d0ae003" title="ntb_key_new" alt="" coords="392,157,491,184"/>
+<area shape="rect" id="node8" href="$ntb-util_8h.html#aad160483ea577cc0c9ffaf8076cb2dce" title="ntb_strconcat" alt="" coords="391,208,492,235"/>
+<area shape="rect" id="node6" href="$ntb-keyring_8h.html#a0b69b21057ecc9e4b20f380bbeb0882b" title="ntb_keyring_create_key" alt="" coords="567,107,727,133"/>
+<area shape="rect" id="node9" href="$ntb-ipc_8h.html#a084901be9ed8443ca643ec1652451bb0" title="ntb_ipc_new" alt="" coords="599,208,694,235"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ntb_buffer_append_string" name="ntb_buffer_append_string">
+<area shape="rect" id="node2" href="$dump-store_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="279,31,330,57"/>
+<area shape="rect" id="node3" href="$ntb-ipc-sockaddr_8h.html#a121cf1fa9e2c1fa75a37e22426f820e5" title="ntb_ipc_sockaddr_create" alt="" coords="221,81,388,108"/>
+<area shape="rect" id="node9" href="$ntb-store_8h.html#a16c5399aec10e9e051ab2dc3ec5c707e" title="ntb_store_for_each_addr" alt="" coords="222,132,387,159"/>
+<area shape="rect" id="node11" href="$ntb-store_8h.html#afb583ce8a90be9d57a63408b2b757931" title="ntb_store_for_each_key" alt="" coords="224,183,385,209"/>
+<area shape="rect" id="node13" href="$ntb-store_8h.html#abb6045e0d9b011372441baaecca0c104" title="ntb_store_for_each\l_outgoing" alt="" coords="238,234,371,275"/>
+<area shape="rect" id="node4" href="$ntb-ipc-client_8h.html#ae5a27434b2cd018ad1c2de37c309e2e9" title="ntb_ipc_client_connect" alt="" coords="439,31,593,57"/>
+<area shape="rect" id="node8" href="$ntb-ipc_8h.html#a084901be9ed8443ca643ec1652451bb0" title="ntb_ipc_new" alt="" coords="469,81,563,108"/>
+<area shape="rect" id="node5" href="$ntb-keygen_8h.html#a530711eaa167e640eda8fe705a2cc515" title="ntb_keygen" alt="" coords="649,5,738,32"/>
+<area shape="rect" id="node7" href="$ntb-sendmail_8h.html#a94f9bd5f3914591f3678c8449408e3e6" title="ntb_sendmail" alt="" coords="644,56,743,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="791,31,841,57"/>
+<area shape="rect" id="node10" href="$ntb-network_8h.html#acf9e92566d344f2cfbf786241b5aeb8e" title="ntb_network_load_store" alt="" coords="436,132,596,159"/>
+<area shape="rect" id="node12" href="$ntb-keyring_8h.html#aac0c38193db3403f85a2d0f8c26b057c" title="ntb_keyring_new" alt="" coords="456,183,576,209"/>
+<area shape="rect" id="node14" href="$ntb-keyring_8h.html#a747b4e701e033d65ed912551e17efc9e" title="ntb_keyring_load_store" alt="" coords="438,241,594,268"/>
+</map>

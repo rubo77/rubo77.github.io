@@ -1,0 +1,9 @@
+<map id="ntb_dns_bootstrap" name="ntb_dns_bootstrap">
+<area shape="rect" id="node2" href="$ntb-log_8c.html#a7aae16ef44457b32749f6810121daf90" title="ntb_log" alt="" coords="183,31,247,57"/>
+<area shape="rect" id="node3" href="$ntb-log_8c.html#ad552c3726ac110823955da0d6a28feb1" title="ntb_log_available" alt="" coords="319,5,442,32"/>
+<area shape="rect" id="node4" href="$ntb-buffer_8c.html#a6d6373e07f3fdb69160b520eaefb9ff4" title="ntb_buffer_append_vprintf" alt="" coords="295,56,467,83"/>
+<area shape="rect" id="node5" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="515,56,672,83"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="720,56,805,83"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="853,31,928,57"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="976,56,1048,83"/>
+</map>

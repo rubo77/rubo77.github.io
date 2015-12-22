@@ -1,0 +1,8 @@
+<map id="ntb_mail_parser" name="ntb_mail_parser">
+<area shape="rect" id="node2" href="$structntb__quoted__printable__data.html" title="ntb_quoted_printable_data" alt="" coords="5,95,180,121"/>
+<area shape="rect" id="node3" href="$structntb__buffer.html" title="ntb_buffer" alt="" coords="205,95,285,121"/>
+<area shape="rect" id="node4" href="$structntb__error.html" title="ntb_error" alt="" coords="309,95,383,121"/>
+<area shape="rect" id="node5" href="$structntb__error__domain.html" title="ntb_error_domain" alt="" coords="285,5,407,32"/>
+<area shape="rect" id="node6" href="$structntb__base64__data.html" title="ntb_base64_data" alt="" coords="407,95,528,121"/>
+<area shape="rect" id="node7" href="$structntb__address.html" title="ntb_address" alt="" coords="553,95,646,121"/>
+</map>

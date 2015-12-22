@@ -1,0 +1,5 @@
+<map id="ntb_network_inventory" name="ntb_network_inventory">
+<area shape="rect" id="node2" href="$structntb__list.html" title="NtbList &#45; linked list. " alt="" coords="5,96,69,123"/>
+<area shape="rect" id="node3" href="$structntb__blob.html" title="ntb_blob" alt="" coords="147,96,218,123"/>
+<area shape="rect" id="node4" href="$structntb__ref__count.html" title="ntb_ref_count" alt="" coords="132,5,233,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ntb_key_copy" name="ntb_key_copy">
+<area shape="rect" id="node2" href="$ntb-util_8c.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="287,5,384,32"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="156,31,239,57"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="432,5,507,32"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="555,5,627,32"/>
+</map>

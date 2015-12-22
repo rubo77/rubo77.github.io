@@ -1,0 +1,5 @@
+<map id="ntb_connection_accept" name="ntb_connection_accept">
+<area shape="rect" id="node2" href="$ntb-socket_8c.html#ab8ab6d4e260b98c5d5e94c2a59f4f73b" title="ntb_socket_set_nonblock" alt="" coords="209,5,380,32"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#ad2c1e6a6f55f3d9c0ec94f622320e2e1" title="ntb_close" alt="" coords="255,56,334,83"/>
+<area shape="rect" id="node4" href="$ntb-netaddress_8c.html#a0c64ce57e87edbe161c60565b5646ff1" title="ntb_netaddress_from\l_native" alt="" coords="223,107,367,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="response_state" name="response_state">
+<area shape="rect" id="node2" href="$structntb__buffer.html" title="ntb_buffer" alt="" coords="5,95,85,121"/>
+<area shape="rect" id="node3" href="$structntb__error.html" title="ntb_error" alt="" coords="122,95,195,121"/>
+<area shape="rect" id="node4" href="$structntb__error__domain.html" title="ntb_error_domain" alt="" coords="97,5,220,32"/>
+</map>

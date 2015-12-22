@@ -1,0 +1,6 @@
+<map id="ntb_ecc_encrypt_end" name="ntb_ecc_encrypt_end">
+<area shape="rect" id="node2" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="200,31,357,57"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="405,31,491,57"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="539,5,613,32"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="661,31,733,57"/>
+</map>

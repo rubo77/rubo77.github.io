@@ -1,0 +1,6 @@
+<map id="ntb_address_get_tag" name="ntb_address_get_tag">
+<area shape="rect" id="node2" href="$ntb-buffer_8c.html#a0dbea5068c0fdf3b6f650a6585818748" title="ntb_buffer_init" alt="" coords="219,5,323,32"/>
+<area shape="rect" id="node3" href="$ntb-proto_8c.html#ac89b860e95962c01b4d68af47270b380" title="ntb_proto_add_var_int" alt="" coords="196,56,347,83"/>
+<area shape="rect" id="node4" href="$ntb-buffer_8c.html#a1b75160596485144ca08c518794bd726" title="ntb_buffer_destroy" alt="" coords="206,107,337,133"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="395,107,464,133"/>
+</map>

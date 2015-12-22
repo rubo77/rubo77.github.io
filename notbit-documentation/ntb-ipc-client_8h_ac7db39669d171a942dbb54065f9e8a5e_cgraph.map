@@ -1,0 +1,5 @@
+<map id="ntb_ipc_client_get_response" name="ntb_ipc_client_get_response">
+<area shape="rect" id="node2" href="$ntb-error_8c.html#ae09b037771461a9d14a7432e143b9658" title="ntb_error_propagate" alt="" coords="180,13,317,39"/>
+<area shape="rect" id="node3" href="$ntb-error_8c.html#af16b3b3d43f89df70cead9ea4b86ceec" title="ntb_error_free" alt="" coords="365,13,468,39"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="516,13,585,39"/>
+</map>

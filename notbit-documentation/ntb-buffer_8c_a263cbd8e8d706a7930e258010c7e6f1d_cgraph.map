@@ -1,0 +1,7 @@
+<map id="NTB_PRINTF_FORMAT" name="NTB_PRINTF_FORMAT">
+<area shape="rect" id="node2" href="$ntb-buffer_8c.html#a6d6373e07f3fdb69160b520eaefb9ff4" title="ntb_buffer_append_vprintf" alt="" coords="221,31,393,57"/>
+<area shape="rect" id="node3" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="441,31,599,57"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="647,31,732,57"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="780,5,855,32"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="903,31,975,57"/>
+</map>

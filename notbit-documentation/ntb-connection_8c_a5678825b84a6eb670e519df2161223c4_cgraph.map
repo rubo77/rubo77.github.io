@@ -1,0 +1,12 @@
+<map id="ntb_connection_free" name="ntb_connection_free">
+<area shape="rect" id="node2" href="$ntb-store_8c.html#a44e7a9d11b485a3a2b4a955a8c3a8a3c" title="cancel task " alt="" coords="192,180,345,207"/>
+<area shape="rect" id="node6" href="$ntb-slice_8c.html#aa5351b32c316e0889d0ca6838bda2f71" title="ntb_slice_free" alt="" coords="622,81,725,108"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="639,275,708,301"/>
+<area shape="rect" id="node9" href="$ntb-buffer_8c.html#a1b75160596485144ca08c518794bd726" title="ntb_buffer_destroy" alt="" coords="203,245,334,272"/>
+<area shape="rect" id="node10" href="$ntb-util_8c.html#ad2c1e6a6f55f3d9c0ec94f622320e2e1" title="ntb_close" alt="" coords="229,376,308,403"/>
+<area shape="rect" id="node11" href="$ntb-proxy_8c.html#aa01756b0cb456e0ed2b185e81baf8d9f" title="ntb_proxy_free" alt="" coords="427,5,535,32"/>
+<area shape="rect" id="node3" href="$ntb-main-context_8c.html#ad93774d68ede1309ff321516f2cfaf25" title="ntb_main_context_remove\l_source" alt="" coords="393,158,568,199"/>
+<area shape="rect" id="node7" href="$ntb-blob_8c.html#ad8dff2200757ca0caefd5119114607c1" title="ntb_blob_unref" alt="" coords="427,224,534,251"/>
+<area shape="rect" id="node4" href="$ntb-list_8c.html#abb5a0df52fda7239252a0cb2e7e84791" title="ntb_list_remove" alt="" coords="616,149,731,176"/>
+<area shape="rect" id="node5" href="$ntb-list_8c.html#a4ebc3373009b462ea5a5c1ce3cf13ede" title="ntb_list_empty" alt="" coords="620,200,727,227"/>
+</map>

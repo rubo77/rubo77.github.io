@@ -1,0 +1,6 @@
+<map id="ntb_store_free" name="ntb_store_free">
+<area shape="rect" id="node2" href="$ntb-buffer_8c.html#a1b75160596485144ca08c518794bd726" title="ntb_buffer_destroy" alt="" coords="337,5,468,32"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="516,56,585,83"/>
+<area shape="rect" id="node4" href="$ntb-slice_8c.html#afd1b947c24ddef9a65c0c291b4946c36" title="ntb_slice_allocator\l_destroy" alt="" coords="159,107,289,149"/>
+<area shape="rect" id="node5" href="$ntb-slab_8c.html#a2d66a02526dd96487903586a090d3a76" title="ntb_slab_destroy" alt="" coords="342,111,463,137"/>
+</map>

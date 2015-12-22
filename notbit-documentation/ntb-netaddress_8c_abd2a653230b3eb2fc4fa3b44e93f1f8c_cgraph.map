@@ -1,0 +1,5 @@
+<map id="ntb_netaddress_to_string" name="ntb_netaddress_to_string">
+<area shape="rect" id="node2" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="263,5,338,32"/>
+<area shape="rect" id="node4" href="$ntb-netaddress_8c.html#a9d3b66387037a506eece1a2ffa070d23" title="ntb_netaddress_is_ipv6" alt="" coords="221,56,380,83"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="428,5,500,32"/>
+</map>

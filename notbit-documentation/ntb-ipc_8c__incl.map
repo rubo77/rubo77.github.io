@@ -1,0 +1,25 @@
+<map id="ntb&#45;ipc.c" name="ntb&#45;ipc.c">
+<area shape="rect" id="node12" href="$ntb-ipc_8h.html" title="ntb&#45;ipc.h" alt="" coords="1475,80,1547,107"/>
+<area shape="rect" id="node15" href="$ntb-util_8h.html" title="ntb&#45;util.h" alt="" coords="925,528,997,555"/>
+<area shape="rect" id="node22" href="$ntb-list_8h.html" title="ntb&#45;list.h" alt="" coords="2441,379,2513,405"/>
+<area shape="rect" id="node23" href="$ntb-blob_8h.html" title="ntb&#45;blob.h" alt="" coords="2223,304,2301,331"/>
+<area shape="rect" id="node25" href="$ntb-proto_8h.html" title="ntb&#45;proto.h" alt="" coords="2639,379,2723,405"/>
+<area shape="rect" id="node28" href="$ntb-buffer_8h.html" title="ntb&#45;buffer.h" alt="" coords="2379,453,2467,480"/>
+<area shape="rect" id="node37" href="$ntb-ipc-proto_8h.html" title="ntb&#45;ipc&#45;proto.h" alt="" coords="2588,229,2693,256"/>
+<area shape="rect" id="node38" href="$ntb-ipc-sockaddr_8h.html" title="ntb&#45;ipc&#45;sockaddr.h" alt="" coords="839,80,968,107"/>
+<area shape="rect" id="node39" href="$ntb-file-error_8h.html" title="ntb&#45;file&#45;error.h" alt="" coords="1247,155,1349,181"/>
+<area shape="rect" id="node40" href="$ntb-main-context_8h.html" title="ntb&#45;main&#45;context.h" alt="" coords="906,304,1037,331"/>
+<area shape="rect" id="node41" href="$ntb-log_8h.html" title="ntb&#45;log.h" alt="" coords="786,304,858,331"/>
+<area shape="rect" id="node42" href="$ntb-socket_8h.html" title="ntb&#45;socket.h" alt="" coords="1061,304,1156,331"/>
+<area shape="rect" id="node43" href="$ntb-mail-parser_8h.html" title="ntb&#45;mail&#45;parser.h" alt="" coords="1180,304,1299,331"/>
+<area shape="rect" id="node44" href="$ntb-mkdir_8h.html" title="ntb&#45;mkdir.h" alt="" coords="1527,304,1613,331"/>
+<area shape="rect" id="node13" href="$ntb-error_8h.html" title="ntb&#45;error.h" alt="" coords="1277,379,1359,405"/>
+<area shape="rect" id="node18" href="$ntb-keyring_8h.html" title="ntb&#45;keyring.h" alt="" coords="1653,155,1751,181"/>
+<area shape="rect" id="node20" href="$ntb-network_8h.html" title="ntb&#45;network.h" alt="" coords="1762,229,1863,256"/>
+<area shape="rect" id="node32" href="$ntb-key_8h.html" title="ntb&#45;key.h" alt="" coords="1956,304,2032,331"/>
+<area shape="rect" id="node36" href="$ntb-address_8h.html" title="ntb&#45;address.h" alt="" coords="1434,379,1535,405"/>
+<area shape="rect" id="node21" href="$ntb-signal_8h.html" title="ntb&#45;signal.h" alt="" coords="1791,304,1880,331"/>
+<area shape="rect" id="node29" href="$ntb-netaddress_8h.html" title="ntb&#45;netaddress.h" alt="" coords="1991,453,2109,480"/>
+<area shape="rect" id="node31" href="$ntb-ref-count_8h.html" title="ntb&#45;ref&#45;count.h" alt="" coords="2209,379,2315,405"/>
+<area shape="rect" id="node35" href="$ntb-ecc_8h.html" title="ntb&#45;ecc.h" alt="" coords="1956,379,2032,405"/>
+</map>

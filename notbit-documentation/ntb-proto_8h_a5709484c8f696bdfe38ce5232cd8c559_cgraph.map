@@ -1,0 +1,9 @@
+<map id="ntb_proto_get_command_va_list" name="ntb_proto_get_command_va_list">
+<area shape="rect" id="node2" href="$ntb-proto_8c.html#a0a55b9613400cc8b84f3a6716e2c20e2" title="ntb_proto_get_16" alt="" coords="655,49,777,75"/>
+<area shape="rect" id="node3" href="$ntb-proto_8c.html#ae108b194846768be668ae8778091ca19" title="ntb_proto_get_32" alt="" coords="655,251,777,278"/>
+<area shape="rect" id="node4" href="$ntb-proto_8c.html#a3feb961118f5455d2ba39aa825b4f009" title="ntb_proto_get_64" alt="" coords="655,175,777,202"/>
+<area shape="rect" id="node5" href="$ntb-proto_8c.html#ac1649d7cf6eebb052190fee080568a82" title="ntb_proto_get_var_int" alt="" coords="449,125,595,151"/>
+<area shape="rect" id="node6" href="$ntb-proto_8c.html#afa8ec6347e3ba985ee6c5a193cc5c122" title="ntb_proto_get_timestamp" alt="" coords="437,251,607,278"/>
+<area shape="rect" id="node7" href="$ntb-proto_8c.html#a290d65906f28625c79b191359f295b51" title="ntb_proto_get_var_str" alt="" coords="230,49,378,75"/>
+<area shape="rect" id="node8" href="$ntb-proto_8c.html#a39c1e85a2b2a2951577ac047c3bef184" title="ntb_proto_get_var_int_list" alt="" coords="219,99,389,126"/>
+</map>

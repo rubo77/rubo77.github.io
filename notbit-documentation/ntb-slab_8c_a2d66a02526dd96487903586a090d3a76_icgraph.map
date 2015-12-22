@@ -1,0 +1,9 @@
+<map id="ntb_slab_destroy" name="ntb_slab_destroy">
+<area shape="rect" id="node2" href="$ntb-slice_8h.html#afd1b947c24ddef9a65c0c291b4946c36" title="ntb_slice_allocator\l_destroy" alt="" coords="175,49,305,90"/>
+<area shape="rect" id="node3" href="$ntb-crypto_8h.html#a5e9df61b274021389fb4c9618b730b66" title="ntb_crypto_free" alt="" coords="375,5,487,32"/>
+<area shape="rect" id="node5" href="$ntb-main-context_8h.html#af52b365b6c7aefc76de5602846f4be34" title="ntb_main_context_free" alt="" coords="353,56,508,83"/>
+<area shape="rect" id="node8" href="$ntb-store_8h.html#a5164ab2ff011ae5318145cf4f68200d1" title="free the store " alt="" coords="378,107,483,133"/>
+<area shape="rect" id="node4" href="$ntb-keyring_8h.html#ad3e6f69975e0cf5243504735e65872a8" title="ntb_keyring_free" alt="" coords="556,5,675,32"/>
+<area shape="rect" id="node6" href="$ntb-daemon_8h.html#af2b9ebb3173ca22e3b3aae73d2902797" title="Main function that runs the notbit deamon. " alt="" coords="569,56,662,83"/>
+<area shape="rect" id="node7" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="723,56,773,83"/>
+</map>

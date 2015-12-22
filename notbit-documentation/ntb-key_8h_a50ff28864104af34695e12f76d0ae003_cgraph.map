@@ -1,0 +1,13 @@
+<map id="ntb_key_new" name="ntb_key_new">
+<area shape="rect" id="node2" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="541,22,616,48"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="182,47,265,74"/>
+<area shape="rect" id="node6" href="$ntb-ecc_8c.html#a8cfd1c347edd249d47a2d4ad5e34e2be" title="ntb_ecc_create_key\l_with_public" alt="" coords="154,98,293,140"/>
+<area shape="rect" id="node7" href="$ntb-ecc_8c.html#a71227b7727be6bcf0fb1027645507e13" title="ntb_ecc_create_key" alt="" coords="154,164,293,191"/>
+<area shape="rect" id="node8" href="$ntb-address_8c.html#a48fc54059a1e2e00dd5f97850da3110b" title="ntb_address_get_tag" alt="" coords="152,215,295,242"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="664,22,736,48"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="369,47,467,74"/>
+<area shape="rect" id="node9" href="$ntb-buffer_8c.html#a0dbea5068c0fdf3b6f650a6585818748" title="ntb_buffer_init" alt="" coords="366,164,470,191"/>
+<area shape="rect" id="node10" href="$ntb-proto_8c.html#ac89b860e95962c01b4d68af47270b380" title="ntb_proto_add_var_int" alt="" coords="343,215,493,242"/>
+<area shape="rect" id="node11" href="$ntb-buffer_8c.html#a1b75160596485144ca08c518794bd726" title="ntb_buffer_destroy" alt="" coords="353,266,483,292"/>
+<area shape="rect" id="node12" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="544,266,613,292"/>
+</map>

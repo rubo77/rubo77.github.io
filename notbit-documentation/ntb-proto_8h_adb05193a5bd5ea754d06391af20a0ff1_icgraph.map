@@ -1,0 +1,5 @@
+<map id="ntb_proto_get_command" name="ntb_proto_get_command">
+<area shape="rect" id="node2" href="$ntb-proto_8h.html#aade2965e624a7ad636bff20169e772c1" title="ntb_proto_get_decrypted_msg" alt="" coords="219,5,416,32"/>
+<area shape="rect" id="node4" href="$ntb-proto_8h.html#aba251d1b2affd24985c043453aeb64a9" title="ntb_proto_get_pubkey" alt="" coords="242,56,393,83"/>
+<area shape="rect" id="node3" href="$ntb-save-message_8h.html#ab2e7b0ddbe5fddc4a755afdba0ed44f4" title="ntb_save_message" alt="" coords="464,5,599,32"/>
+</map>

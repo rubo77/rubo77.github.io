@@ -1,0 +1,8 @@
+<map id="ntb_proto_add_var_int" name="ntb_proto_add_var_int">
+<area shape="rect" id="node2" href="$ntb-address_8h.html#a48fc54059a1e2e00dd5f97850da3110b" title="ntb_address_get_tag" alt="" coords="217,5,359,32"/>
+<area shape="rect" id="node4" href="$ntb-proto_8h.html#aaf22cdf26fee9b2967c8ee2d6335bd32" title="ntb_proto_add_command\l_va_list" alt="" coords="204,57,372,98"/>
+<area shape="rect" id="node3" href="$ntb-key_8h.html#a50ff28864104af34695e12f76d0ae003" title="ntb_key_new" alt="" coords="455,5,553,32"/>
+<area shape="rect" id="node5" href="$ntb-proto_8h.html#aaee5b9a12e0aacff52b9e10e007d142e" title="ntb_proto_add_command" alt="" coords="420,64,588,91"/>
+<area shape="rect" id="node6" href="$ntb-connection_8h.html#a29f1af410e5773406a35748384dfdfae" title="ntb_connection_send\l_verack" alt="" coords="636,23,781,65"/>
+<area shape="rect" id="node7" href="$ntb-connection_8h.html#aa21d424a31cc4bb611a70711aed27919" title="ntb_connection_send\l_version" alt="" coords="636,89,781,130"/>
+</map>

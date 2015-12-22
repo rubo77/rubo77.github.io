@@ -1,0 +1,12 @@
+<map id="ntb_connection_add_addr_address" name="ntb_connection_add_addr_address">
+<area shape="rect" id="node2" href="$ntb-connection_8c.html#aa281ba0943f0e3ac7148a35350868177" title="ntb_connection_end_addr" alt="" coords="197,12,367,39"/>
+<area shape="rect" id="node4" href="$ntb-connection_8c.html#a68b17c1383e0d6edbc8f3c581860b826" title="ntb_connection_begin_addr" alt="" coords="192,69,372,96"/>
+<area shape="rect" id="node10" href="$ntb-proto_8c.html#a4f244d7e2abf75c776631cc4ea67db02" title="ntb_proto_add_netaddress" alt="" coords="195,132,369,159"/>
+<area shape="rect" id="node3" href="$ntb-proto_8c.html#a8f1bab60cab4ed030553f7c641e80ea7" title="ntb_proto_end_command" alt="" coords="425,5,593,32"/>
+<area shape="rect" id="node5" href="$ntb-proto_8c.html#a4b9a0953aabeeb246d12a7587ac6194b" title="ntb_proto_begin_command" alt="" coords="420,56,599,83"/>
+<area shape="rect" id="node6" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="647,107,804,133"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="852,107,937,133"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="985,81,1060,108"/>
+<area shape="rect" id="node9" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="1108,107,1180,133"/>
+<area shape="rect" id="node11" href="$ntb-buffer_8c.html#a23b77cb9d3f7f2be4dcd39cc5d87837e" title="ntb_buffer_append" alt="" coords="445,157,574,184"/>
+</map>

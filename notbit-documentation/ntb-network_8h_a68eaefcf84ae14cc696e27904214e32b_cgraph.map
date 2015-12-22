@@ -1,0 +1,20 @@
+<map id="ntb_network_add_listen_address" name="ntb_network_add_listen_address">
+<area shape="rect" id="node2" href="$ntb-netaddress_8c.html#a534056d5db093611f8bfaac6107495a6" title="ntb_netaddress_from\l_string" alt="" coords="225,70,369,111"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="976,132,1051,159"/>
+<area shape="rect" id="node11" href="$ntb-error_8c.html#abea3e54cdf24701bb1e07d1bb9cc147a" title="ntb_set_error" alt="" coords="248,208,347,235"/>
+<area shape="rect" id="node14" href="$ntb-netaddress_8c.html#ac419435a3e019dd17a76e5a24bf85f62" title="ntb_netaddress_to_native" alt="" coords="212,259,383,285"/>
+<area shape="rect" id="node16" href="$ntb-socket_8c.html#ab8ab6d4e260b98c5d5e94c2a59f4f73b" title="ntb_socket_set_nonblock" alt="" coords="212,309,383,336"/>
+<area shape="rect" id="node17" href="$ntb-list_8c.html#ae87220b56ded1440a7de6563a92e563d" title="ntb_list_insert" alt="" coords="246,360,349,387"/>
+<area shape="rect" id="node18" href="$ntb-netaddress_8c.html#a0c64ce57e87edbe161c60565b5646ff1" title="ntb_netaddress_from\l_native" alt="" coords="225,411,369,453"/>
+<area shape="rect" id="node19" href="$ntb-util_8c.html#ad2c1e6a6f55f3d9c0ec94f622320e2e1" title="ntb_close" alt="" coords="258,477,337,504"/>
+<area shape="rect" id="node3" href="$ntb-buffer_8c.html#a0dbea5068c0fdf3b6f650a6585818748" title="ntb_buffer_init" alt="" coords="458,5,562,32"/>
+<area shape="rect" id="node4" href="$ntb-buffer_8c.html#a23b77cb9d3f7f2be4dcd39cc5d87837e" title="ntb_buffer_append" alt="" coords="445,56,575,83"/>
+<area shape="rect" id="node9" href="$ntb-buffer_8c.html#a1b75160596485144ca08c518794bd726" title="ntb_buffer_destroy" alt="" coords="445,107,575,133"/>
+<area shape="rect" id="node5" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="637,56,795,83"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="843,81,928,108"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="1099,107,1171,133"/>
+<area shape="rect" id="node10" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="681,107,751,133"/>
+<area shape="rect" id="node12" href="$ntb-error_8c.html#ae5d14833df442addef9c9d4c56998d5f" title="ntb_set_error_va_list" alt="" coords="439,208,581,235"/>
+<area shape="rect" id="node13" href="$ntb-util_8c.html#ad676939eb3f4707103cb7b615c7ecc42" title="ntb_warning" alt="" coords="670,208,762,235"/>
+<area shape="rect" id="node15" href="$ntb-netaddress_8c.html#a9d3b66387037a506eece1a2ffa070d23" title="ntb_netaddress_is_ipv6" alt="" coords="431,259,589,285"/>
+</map>

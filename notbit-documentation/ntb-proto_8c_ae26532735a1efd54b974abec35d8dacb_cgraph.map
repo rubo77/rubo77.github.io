@@ -1,0 +1,7 @@
+<map id="ntb_proto_add_var_str" name="ntb_proto_add_var_str">
+<area shape="rect" id="node2" href="$ntb-buffer_8c.html#a23b77cb9d3f7f2be4dcd39cc5d87837e" title="ntb_buffer_append" alt="" coords="204,31,333,57"/>
+<area shape="rect" id="node3" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="381,31,539,57"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="587,31,672,57"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="720,5,795,32"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="843,31,915,57"/>
+</map>

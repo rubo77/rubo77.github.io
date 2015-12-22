@@ -1,0 +1,7 @@
+<map id="ntb_ecc_new" name="ntb_ecc_new">
+<area shape="rect" id="node2" href="$ntb-crypto_8h.html#aeb57901bbf6d1534b277a3761af29643" title="ntb_crypto_new" alt="" coords="152,5,267,32"/>
+<area shape="rect" id="node4" href="$ntb-load-keys_8h.html#a2ead72f78270712727f6021a02718158" title="ntb_load_keys" alt="" coords="156,56,263,83"/>
+<area shape="rect" id="node3" href="$ntb-keyring_8h.html#af054b9347ce72feb2c75ae7b0bd7a2f8" title="ntb_keyring_start" alt="" coords="334,5,457,32"/>
+<area shape="rect" id="node5" href="$ntb-store_8h.html#afb583ce8a90be9d57a63408b2b757931" title="ntb_store_for_each_key" alt="" coords="315,56,476,83"/>
+<area shape="rect" id="node6" href="$ntb-keyring_8h.html#aac0c38193db3403f85a2d0f8c26b057c" title="ntb_keyring_new" alt="" coords="524,56,644,83"/>
+</map>

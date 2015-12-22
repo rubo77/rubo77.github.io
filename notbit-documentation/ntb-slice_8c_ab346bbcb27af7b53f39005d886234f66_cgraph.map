@@ -1,0 +1,5 @@
+<map id="ntb_slice_alloc" name="ntb_slice_alloc">
+<area shape="rect" id="node2" href="$ntb-slab_8c.html#a0f7de8c62dd7aaca2b713bb2c3afb455" title="ntb_slab_allocate" alt="" coords="161,5,284,32"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="332,5,407,32"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="455,5,527,32"/>
+</map>

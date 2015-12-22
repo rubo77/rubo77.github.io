@@ -1,0 +1,6 @@
+<map id="ntb_netaddress_is_ipv6" name="ntb_netaddress_is_ipv6">
+<area shape="rect" id="node2" href="$ntb-netaddress_8h.html#ac419435a3e019dd17a76e5a24bf85f62" title="ntb_netaddress_to_native" alt="" coords="216,13,387,39"/>
+<area shape="rect" id="node4" href="$ntb-netaddress_8h.html#abd2a653230b3eb2fc4fa3b44e93f1f8c" title="ntb_netaddress_to_string" alt="" coords="217,63,385,90"/>
+<area shape="rect" id="node5" href="$ntb-netaddress_8h.html#a21e28f32d13a741ea0c43a416cfcf6d0" title="ntb_netaddress_is_allowed" alt="" coords="212,114,391,141"/>
+<area shape="rect" id="node3" href="$ntb-network_8h.html#a68eaefcf84ae14cc696e27904214e32b" title="ntb_network_add_listen\l_address" alt="" coords="439,5,597,47"/>
+</map>

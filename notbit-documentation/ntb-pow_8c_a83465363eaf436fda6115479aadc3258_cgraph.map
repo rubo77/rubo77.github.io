@@ -1,0 +1,6 @@
+<map id="ntb_pow_calculate" name="ntb_pow_calculate">
+<area shape="rect" id="node2" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="232,5,307,32"/>
+<area shape="rect" id="node4" href="$ntb-pow_8c.html#a004c33e2dbbf7767205159dc23ba4103" title="ntb_pow_calculate_target" alt="" coords="184,56,355,83"/>
+<area shape="rect" id="node5" href="$ntb-list_8c.html#ae87220b56ded1440a7de6563a92e563d" title="ntb_list_insert" alt="" coords="218,107,321,133"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="403,5,475,32"/>
+</map>

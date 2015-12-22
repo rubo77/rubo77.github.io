@@ -1,0 +1,7 @@
+<map id="ntb_crypto_decrypt_msg" name="ntb_crypto_decrypt_msg">
+<area shape="rect" id="node2" href="$ntb-blob_8c.html#a58a5e790dea7019bd27976087a00943e" title="ntb_blob_ref" alt="" coords="221,5,314,32"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="219,56,316,83"/>
+<area shape="rect" id="node6" href="$ntb-key_8c.html#a53a0093452f782a58cbd4c932dbfad20" title="ntb_key_ref" alt="" coords="222,107,313,133"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="364,56,439,83"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="487,56,559,83"/>
+</map>

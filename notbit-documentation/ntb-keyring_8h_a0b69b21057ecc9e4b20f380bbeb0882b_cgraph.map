@@ -1,0 +1,7 @@
+<map id="ntb_keyring_create_key" name="ntb_keyring_create_key">
+<area shape="rect" id="node2" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="692,5,767,32"/>
+<area shape="rect" id="node4" href="$ntb-crypto_8c.html#a70d8923317abaddc5de09f9fd4eba16d" title="ntb_crypto_create_key" alt="" coords="213,31,368,57"/>
+<area shape="rect" id="node3" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="815,5,887,32"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="416,31,499,57"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="547,31,644,57"/>
+</map>

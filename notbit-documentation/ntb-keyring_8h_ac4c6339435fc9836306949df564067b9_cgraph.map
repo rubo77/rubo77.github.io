@@ -1,0 +1,9 @@
+<map id="ntb_keyring_send_message" name="ntb_keyring_send_message">
+<area shape="rect" id="node2" href="$ntb-error_8c.html#abea3e54cdf24701bb1e07d1bb9cc147a" title="ntb_set_error" alt="" coords="273,31,372,57"/>
+<area shape="rect" id="node6" href="$ntb-store_8c.html#a05156b345d43ed32e691042eece09ca4" title="ntb_store_save_message\l_content" alt="" coords="237,82,408,123"/>
+<area shape="rect" id="node8" href="$ntb-crypto_8c.html#a86d5ebb73a428d55461a827200b85624" title="ntb_crypto_generate\l_ackdata" alt="" coords="253,147,393,189"/>
+<area shape="rect" id="node3" href="$ntb-error_8c.html#ae5d14833df442addef9c9d4c56998d5f" title="ntb_set_error_va_list" alt="" coords="456,31,599,57"/>
+<area shape="rect" id="node4" href="$ntb-util_8c.html#ad676939eb3f4707103cb7b615c7ecc42" title="ntb_warning" alt="" coords="647,5,739,32"/>
+<area shape="rect" id="node5" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="658,56,727,83"/>
+<area shape="rect" id="node7" href="$ntb-blob_8c.html#a58a5e790dea7019bd27976087a00943e" title="ntb_blob_ref" alt="" coords="481,89,574,116"/>
+</map>

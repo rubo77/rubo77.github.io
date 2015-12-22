@@ -1,0 +1,5 @@
+<map id="ntb_proto_get_var_int" name="ntb_proto_get_var_int">
+<area shape="rect" id="node2" href="$ntb-proto_8c.html#a0a55b9613400cc8b84f3a6716e2c20e2" title="ntb_proto_get_16" alt="" coords="200,5,323,32"/>
+<area shape="rect" id="node3" href="$ntb-proto_8c.html#ae108b194846768be668ae8778091ca19" title="ntb_proto_get_32" alt="" coords="200,56,323,83"/>
+<area shape="rect" id="node4" href="$ntb-proto_8c.html#a3feb961118f5455d2ba39aa825b4f009" title="ntb_proto_get_64" alt="" coords="200,107,323,133"/>
+</map>

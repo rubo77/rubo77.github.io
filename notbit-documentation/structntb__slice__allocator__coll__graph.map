@@ -1,0 +1,5 @@
+<map id="ntb_slice_allocator" name="ntb_slice_allocator">
+<area shape="rect" id="node2" href="$structntb__slice.html" title="ntb_slice" alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node3" href="$structntb__slab__allocator.html" title="ntb_slab_allocator" alt="" coords="158,95,285,121"/>
+<area shape="rect" id="node4" href="$structntb__slab.html" title="ntb_slab" alt="" coords="186,5,257,32"/>
+</map>

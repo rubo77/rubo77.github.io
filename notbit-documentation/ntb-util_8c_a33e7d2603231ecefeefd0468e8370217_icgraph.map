@@ -1,0 +1,51 @@
+<map id="ntb_fatal" name="ntb_fatal">
+<area shape="rect" id="node2" href="$ntb-base58_8h.html#ae6cd0a4c757a438fe37860a033f466af" title="ntb_base58_encode" alt="" coords="125,328,264,355"/>
+<area shape="rect" id="node5" href="$ntb-ecc_8h.html#a383ea35315739d261d88fb81d4f70b5f" title="ntb_ecc_new" alt="" coords="347,1072,445,1099"/>
+<area shape="rect" id="node11" href="$ntb-util_8h.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="157,731,232,757"/>
+<area shape="rect" id="node32" href="$ntb-util_8h.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="353,1376,439,1403"/>
+<area shape="rect" id="node48" href="$ntb-util_8h.html#acff1fbd30a09c3d1517a510f77cd843d" title="ntb_create_thread" alt="" coords="131,1224,258,1251"/>
+<area shape="rect" id="node3" href="$ntb-address_8h.html#a9da59a0b6c6e42a3fe9515c44b6e57b9" title="ntb_address_encode" alt="" coords="325,5,467,32"/>
+<area shape="rect" id="node4" href="$ntb-save-message_8h.html#ab2e7b0ddbe5fddc4a755afdba0ed44f4" title="ntb_save_message" alt="" coords="543,5,678,32"/>
+<area shape="rect" id="node6" href="$ntb-crypto_8h.html#aeb57901bbf6d1534b277a3761af29643" title="ntb_crypto_new" alt="" coords="553,1123,668,1149"/>
+<area shape="rect" id="node8" href="$ntb-load-keys_8h.html#a2ead72f78270712727f6021a02718158" title="ntb_load_keys" alt="" coords="557,1072,664,1099"/>
+<area shape="rect" id="node7" href="$ntb-keyring_8h.html#af054b9347ce72feb2c75ae7b0bd7a2f8" title="ntb_keyring_start" alt="" coords="771,1123,893,1149"/>
+<area shape="rect" id="node9" href="$ntb-store_8h.html#afb583ce8a90be9d57a63408b2b757931" title="ntb_store_for_each_key" alt="" coords="751,1072,913,1099"/>
+<area shape="rect" id="node10" href="$ntb-keyring_8h.html#aac0c38193db3403f85a2d0f8c26b057c" title="ntb_keyring_new" alt="" coords="1001,1021,1121,1048"/>
+<area shape="rect" id="node12" href="$ntb-blob_8h.html#af03372d45d743ff499f4752155037168" title="ntb_blob_new" alt="" coords="345,56,447,83"/>
+<area shape="rect" id="node13" href="$ntb-hash-table_8h.html#a2afb6d94bda9fe1d1ab17550f80f6db4" title="ntb_hash_table_new" alt="" coords="325,971,467,997"/>
+<area shape="rect" id="node14" href="$ntb-network_8h.html#ad3669edb6b801722413a132894690351" title="New network. " alt="" coords="549,735,673,761"/>
+<area shape="rect" id="node15" href="$ntb-ipc_8h.html#a084901be9ed8443ca643ec1652451bb0" title="ntb_ipc_new" alt="" coords="1013,448,1108,475"/>
+<area shape="rect" id="node16" href="$ntb-key_8h.html#a50ff28864104af34695e12f76d0ae003" title="ntb_key_new" alt="" coords="783,208,881,235"/>
+<area shape="rect" id="node17" href="$ntb-keyring_8h.html#a0b69b21057ecc9e4b20f380bbeb0882b" title="ntb_keyring_create_key" alt="" coords="316,600,476,627"/>
+<area shape="rect" id="node18" href="$ntb-mail-parser_8h.html#a2ed7bbb67b1bf4f657f3d0b4d726eb96" title="ntb_mail_parser_new" alt="" coords="323,651,469,677"/>
+<area shape="rect" id="node19" href="$ntb-main-context_8h.html#a119033861fa6e8a0d25d48cdd9a25827" title="ntb_main_context_new" alt="" coords="318,397,474,424"/>
+<area shape="rect" id="node24" href="$ntb-netaddress_8h.html#abd2a653230b3eb2fc4fa3b44e93f1f8c" title="ntb_netaddress_to_string" alt="" coords="312,701,480,728"/>
+<area shape="rect" id="node25" href="$ntb-network_8h.html#a68eaefcf84ae14cc696e27904214e32b" title="ntb_network_add_listen\l_address" alt="" coords="317,753,475,794"/>
+<area shape="rect" id="node26" href="$ntb-pow_8h.html#adf1af44cc452166f0e74ca6633459c20" title="ntb_pow_new" alt="" coords="345,1224,447,1251"/>
+<area shape="rect" id="node27" href="$ntb-pow_8h.html#a83465363eaf436fda6115479aadc3258" title="ntb_pow_calculate" alt="" coords="331,819,461,845"/>
+<area shape="rect" id="node28" href="$ntb-slab_8h.html#a0f7de8c62dd7aaca2b713bb2c3afb455" title="ntb_slab_allocate" alt="" coords="335,448,457,475"/>
+<area shape="rect" id="node30" href="$ntb-store_8h.html#a78cda9a94b765a895a643a631901c59f" title="ntb_store_new" alt="" coords="343,869,449,896"/>
+<area shape="rect" id="node31" href="$ntb-store_8h.html#aaf023f6fbf4bbb4e329103ed8d29dc1c" title="ntb_store_save_keys" alt="" coords="323,920,469,947"/>
+<area shape="rect" id="node43" href="$ntb-util_8h.html#ad72db69a78112ddde0b45adeaa9aeab1" title="ntb_memdup" alt="" coords="347,284,445,311"/>
+<area shape="rect" id="node47" href="$ntb-util_8h.html#aad160483ea577cc0c9ffaf8076cb2dce" title="ntb_strconcat" alt="" coords="781,157,883,184"/>
+<area shape="rect" id="node20" href="$ntb-main-context_8h.html#a6236d2c875e0cc196d124f7c6ea2b1e9" title="ntb_main_context_get\l_default" alt="" coords="535,361,686,402"/>
+<area shape="rect" id="node21" href="$ntb-daemon_8h.html#af2b9ebb3173ca22e3b3aae73d2902797" title="Main function that runs the notbit deamon. " alt="" coords="785,347,879,373"/>
+<area shape="rect" id="node22" href="$ntb-main-context_8h.html#a350bced573b358e0b69f76b9f52e4f3a" title="ntb_main_context_add_poll" alt="" coords="742,448,922,475"/>
+<area shape="rect" id="node23" href="$ntb-main-context_8h.html#ae97471db282eb73a7369e8edc2a9e39e" title="ntb_main_context_add_quit" alt="" coords="741,397,923,424"/>
+<area shape="rect" id="node29" href="$ntb-slice_8h.html#ab346bbcb27af7b53f39005d886234f66" title="ntb_slice_alloc" alt="" coords="557,477,665,504"/>
+<area shape="rect" id="node33" href="$ntb-buffer_8h.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="532,1376,689,1403"/>
+<area shape="rect" id="node34" href="$ntb-buffer_8h.html#a4c9eba33059fae349cfc5a5a46a14b4b" title="ntb_buffer_set_length" alt="" coords="759,1376,905,1403"/>
+<area shape="rect" id="node35" href="$ntb-buffer_8h.html#a554326c8ac95f53f5ede88caf5f3c9b1" title="ntb_buffer_append_vprintf" alt="" coords="746,1427,918,1453"/>
+<area shape="rect" id="node36" href="$ntb-buffer_8h.html#a23b77cb9d3f7f2be4dcd39cc5d87837e" title="ntb_buffer_append" alt="" coords="767,1477,897,1504"/>
+<area shape="rect" id="node37" href="$ntb-connection_8h.html#a68b17c1383e0d6edbc8f3c581860b826" title="ntb_connection_begin_addr" alt="" coords="971,1553,1151,1580"/>
+<area shape="rect" id="node38" href="$ntb-ecc_8h.html#aa6df581f9dd0897d1aa780c487dea20e" title="ntb_ecc_encrypt_update" alt="" coords="750,1173,914,1200"/>
+<area shape="rect" id="node39" href="$ntb-ecc_8h.html#a0804c92dc44ac9650af0d50eac790f4d" title="ntb_ecc_encrypt_end" alt="" coords="759,1224,905,1251"/>
+<area shape="rect" id="node40" href="$ntb-ecc_8h.html#addd3fc4762e2598c755b44843783427e" title="ntb_ecc_decrypt" alt="" coords="773,1275,891,1301"/>
+<area shape="rect" id="node41" href="$ntb-proto_8h.html#ae17fc1886e9bbfaf937ac5041e3d3512" title="ntb_proto_add_public_key" alt="" coords="745,1325,919,1352"/>
+<area shape="rect" id="node42" href="$ntb-proto_8h.html#a4b9a0953aabeeb246d12a7587ac6194b" title="ntb_proto_begin_command" alt="" coords="743,1579,921,1605"/>
+<area shape="rect" id="node44" href="$ntb-crypto_8h.html#a2a183d906c94cd1fef5fe998fd17a37f" title="ntb_crypto_decrypt_msg" alt="" coords="528,309,693,336"/>
+<area shape="rect" id="node45" href="$ntb-key_8h.html#a74c03d58ff76f94b0e4f076d39003261" title="ntb_key_copy" alt="" coords="781,259,883,285"/>
+<area shape="rect" id="node46" href="$ntb-util_8h.html#aeef7d6b12c9f89029ad026fb45413613" title="ntb_strdup" alt="" coords="569,208,652,235"/>
+<area shape="rect" id="node49" href="$ntb-log_8h.html#a1ab53e2958515b0b63c5d0cb796cd037" title="ntb_log_start" alt="" coords="347,1325,445,1352"/>
+<area shape="rect" id="node50" href="$ntb-store_8h.html#a489a069aa7d5fc49bd64663a336cfbcc" title="ntb_store_start" alt="" coords="341,1275,451,1301"/>
+</map>

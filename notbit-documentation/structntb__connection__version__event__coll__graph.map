@@ -1,0 +1,26 @@
+<map id="ntb_connection_version_event" name="ntb_connection_version_event">
+<area shape="rect" id="node2" href="$structntb__netaddress.html" title="ntb_netaddress" alt="" coords="98,96,209,123"/>
+<area shape="rect" id="node6" href="$structntb__connection.html" title="ntb_connection" alt="" coords="406,533,517,560"/>
+<area shape="rect" id="node16" href="$structntb__store__addr.html" title="ntb_store_addr" alt="" coords="914,201,1022,228"/>
+<area shape="rect" id="node24" href="$structntb__proxy.html" title="ntb_proxy" alt="" coords="422,336,501,363"/>
+<area shape="rect" id="node3" href="$structntb__proto__var__str.html" title="ntb_proto_var_str" alt="" coords="57,623,180,649"/>
+<area shape="rect" id="node4" href="$structntb__proto__var__int__list.html" title="ntb_proto_var_int_list" alt="" coords="204,623,351,649"/>
+<area shape="rect" id="node5" href="$structntb__connection__event.html" title="ntb_connection_event" alt="" coords="381,623,531,649"/>
+<area shape="rect" id="node7" href="$structntb__store__cookie.html" title="ntb_store_cookie" alt="" coords="1210,443,1331,469"/>
+<area shape="rect" id="node15" href="$structntb__store__task.html" title="ntb_store_task" alt="" coords="1269,336,1377,363"/>
+<area shape="rect" id="node8" href="$structntb__store.html" title="ntb_store" alt="" coords="1019,336,1095,363"/>
+<area shape="rect" id="node9" href="$structntb__list.html" title="NtbList &#45; linked list. " alt="" coords="781,96,845,123"/>
+<area shape="rect" id="node21" href="$structntb__main__context__source.html" title="ntb_main_context_source" alt="" coords="685,336,856,363"/>
+<area shape="rect" id="node22" href="$structntb__main__context.html" title="ntb_main_context" alt="" coords="753,443,879,469"/>
+<area shape="rect" id="node23" href="$structntb__main__context__bucket.html" title="ntb_main_context_bucket" alt="" coords="595,201,765,228"/>
+<area shape="rect" id="node25" href="$structntb__signal.html" title="ntb_signal" alt="" coords="271,268,353,295"/>
+<area shape="rect" id="node10" href="$structntb__buffer.html" title="ntb_buffer" alt="" coords="491,201,571,228"/>
+<area shape="rect" id="node11" href="$structntb__slice__allocator.html" title="ntb_slice_allocator" alt="" coords="1208,201,1339,228"/>
+<area shape="rect" id="node12" href="$structntb__slice.html" title="ntb_slice" alt="" coords="1092,96,1167,123"/>
+<area shape="rect" id="node13" href="$structntb__slab__allocator.html" title="ntb_slab_allocator" alt="" coords="1245,96,1371,123"/>
+<area shape="rect" id="node14" href="$structntb__slab.html" title="ntb_slab" alt="" coords="1273,5,1343,32"/>
+<area shape="rect" id="node17" href="$structntb__blob.html" title="ntb_blob" alt="" coords="1362,201,1433,228"/>
+<area shape="rect" id="node18" href="$structntb__ref__count.html" title="ntb_ref_count" alt="" coords="1401,96,1503,123"/>
+<area shape="rect" id="node19" href="$structntb__key.html" title="ntb_key" alt="" coords="1457,201,1525,228"/>
+<area shape="rect" id="node20" href="$structntb__address.html" title="ntb_address" alt="" coords="1529,96,1623,123"/>
+</map>

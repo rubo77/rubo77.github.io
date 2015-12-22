@@ -1,0 +1,12 @@
+<map id="ntb_ecc_encrypt_with_point" name="ntb_ecc_encrypt_with_point">
+<area shape="rect" id="node2" href="$ntb-ecc_8c.html#a699960b3866be15b4f17bc15d9716ffa" title="ntb_ecc_encrypt_with\l_point_begin" alt="" coords="203,41,352,82"/>
+<area shape="rect" id="node10" href="$ntb-ecc_8c.html#aa6df581f9dd0897d1aa780c487dea20e" title="ntb_ecc_encrypt_update" alt="" coords="413,107,577,133"/>
+<area shape="rect" id="node11" href="$ntb-ecc_8c.html#a0804c92dc44ac9650af0d50eac790f4d" title="ntb_ecc_encrypt_end" alt="" coords="204,157,351,184"/>
+<area shape="rect" id="node3" href="$ntb-ecc_8c.html#a8a3c763678a9b523cc4be4a2ca26fbed" title="ntb_ecc_create_random_key" alt="" coords="400,5,589,32"/>
+<area shape="rect" id="node5" href="$ntb-buffer_8c.html#a4c9eba33059fae349cfc5a5a46a14b4b" title="ntb_buffer_set_length" alt="" coords="421,56,568,83"/>
+<area shape="rect" id="node4" href="$ntb-ecc_8c.html#a71227b7727be6bcf0fb1027645507e13" title="ntb_ecc_create_key" alt="" coords="647,5,785,32"/>
+<area shape="rect" id="node6" href="$ntb-buffer_8c.html#a0c3cbd4181478db096bb8fdeb85ea5c6" title="ntb_buffer_ensure_size" alt="" coords="637,107,795,133"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#a66e21676115ad2e33f8a6af0c554f15a" title="ntb_realloc" alt="" coords="843,107,928,133"/>
+<area shape="rect" id="node8" href="$ntb-util_8c.html#a7a9c8a8c1eceaa276f9654a0f9e41ed4" title="ntb_alloc" alt="" coords="976,81,1051,108"/>
+<area shape="rect" id="node9" href="$ntb-util_8c.html#a33e7d2603231ecefeefd0468e8370217" title="ntb_fatal" alt="" coords="1099,107,1171,133"/>
+</map>

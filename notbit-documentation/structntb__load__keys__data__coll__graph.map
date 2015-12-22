@@ -1,0 +1,7 @@
+<map id="ntb_load_keys_data" name="ntb_load_keys_data">
+<area shape="rect" id="node2" href="$structntb__buffer.html" title="ntb_buffer" alt="" coords="5,95,85,121"/>
+<area shape="rect" id="node3" href="$structntb__key.html" title="ntb_key" alt="" coords="110,95,178,121"/>
+<area shape="rect" id="node4" href="$structntb__ref__count.html" title="ntb_ref_count" alt="" coords="33,5,135,32"/>
+<area shape="rect" id="node5" href="$structntb__address.html" title="ntb_address" alt="" coords="159,5,252,32"/>
+<area shape="rect" id="node6" href="$structntb__ecc.html" title="ntb_ecc" alt="" coords="202,95,270,121"/>
+</map>

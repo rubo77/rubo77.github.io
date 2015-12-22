@@ -1,0 +1,5 @@
+<map id="ntb_main_context_remove_source" name="ntb_main_context_remove_source">
+<area shape="rect" id="node2" href="$ntb-list_8c.html#abb5a0df52fda7239252a0cb2e7e84791" title="ntb_list_remove" alt="" coords="228,5,343,32"/>
+<area shape="rect" id="node3" href="$ntb-list_8c.html#a4ebc3373009b462ea5a5c1ce3cf13ede" title="ntb_list_empty" alt="" coords="232,56,339,83"/>
+<area shape="rect" id="node4" href="$ntb-slice_8c.html#aa5351b32c316e0889d0ca6838bda2f71" title="ntb_slice_free" alt="" coords="234,107,337,133"/>
+</map>

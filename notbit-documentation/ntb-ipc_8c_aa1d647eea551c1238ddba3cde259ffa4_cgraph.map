@@ -1,0 +1,8 @@
+<map id="ntb_ipc_free" name="ntb_ipc_free">
+<area shape="rect" id="node2" href="$ntb-main-context_8c.html#ad93774d68ede1309ff321516f2cfaf25" title="ntb_main_context_remove\l_source" alt="" coords="147,49,321,90"/>
+<area shape="rect" id="node6" href="$ntb-util_8c.html#ad2c1e6a6f55f3d9c0ec94f622320e2e1" title="ntb_close" alt="" coords="195,115,273,141"/>
+<area shape="rect" id="node7" href="$ntb-util_8c.html#aed81a6ef12b3aa4b896a993a4f1e0c64" title="ntb_free" alt="" coords="199,165,269,192"/>
+<area shape="rect" id="node3" href="$ntb-list_8c.html#abb5a0df52fda7239252a0cb2e7e84791" title="ntb_list_remove" alt="" coords="369,5,484,32"/>
+<area shape="rect" id="node4" href="$ntb-list_8c.html#a4ebc3373009b462ea5a5c1ce3cf13ede" title="ntb_list_empty" alt="" coords="373,56,480,83"/>
+<area shape="rect" id="node5" href="$ntb-slice_8c.html#aa5351b32c316e0889d0ca6838bda2f71" title="ntb_slice_free" alt="" coords="375,107,478,133"/>
+</map>
